@@ -419,9 +419,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hiren Darji**  
 - 📧 Email: darjihiren850@gmail.com
-- 🎓 SAP ID: 60019230114
-- 💼 LinkedIn: [linkedin.com/in/hirendarji](https://linkedin.com/in/hirendarji)
-- 🐙 GitHub: [github.com/hirendarji](https://github.com/hirendarji)
+- 💼 LinkedIn: [linkedin.com/in/hirendarji](https://linkedin.com/in/hiren-darji31)
+- 🐙 GitHub: [github.com/hirendarji](https://github.com/hiren016)
 
 ---
 
