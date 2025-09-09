@@ -1,9 +1,9 @@
 # To-Evaluate-Speech-Recognition-Robustness-in-Noisy-User-Environments-by-using-PYTHON
-This repository contains Speech Recognition Robustness in Noisy Environments, where we analyze audio features, evaluate ASR models (Vosk &amp; Whisper) under varying noise levels, and visualize results. It also includes a FastAPI + WebSocket + Chart.js based real-time transcription UI with live RMS and ZCR monitoring.
 
 # 🎙️ Speech Recognition Robustness in Noisy Environments
 
 **Automatic Speech Recognition (ASR) System Analysis**
+This repository contains Speech Recognition Robustness in Noisy Environments, where we analyze audio features, evaluate ASR models (Vosk &amp; Whisper) under varying noise levels, and visualize results. It also includes a FastAPI + WebSocket + Chart.js based real-time transcription UI with live RMS and ZCR monitoring.
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Web%20UI-green.svg)](https://fastapi.tiangolo.com/)
@@ -110,6 +110,11 @@ uvicorn app:app --reload
 # Access the web interface
 # Open browser: http://127.0.0.1:8000
 ```
+
+### Output 
+<img width="1366" height="729" alt="output_1" src="https://github.com/user-attachments/assets/cf1c4f00-b462-49fa-aed6-53cac5c16d4a" />
+<img width="1366" height="516" alt="output_2" src="https://github.com/user-attachments/assets/2e1242cd-8a96-4178-b236-1d25d64d93ae" />
+
 
 ## 📖 Experiment Methodology
 
