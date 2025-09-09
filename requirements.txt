@@ -1,0 +1,33 @@
+# Core Python libraries
+numpy
+scipy
+pandas
+tqdm
+
+# Audio processing
+librosa
+soundfile
+pydub
+
+# Visualization
+matplotlib
+seaborn
+
+# Speech recognition
+vosk
+faster-whisper
+
+# Dataset generation
+gTTS
+pyttsx3
+
+# Backend / API
+fastapi
+uvicorn
+
+# Frontend (served with FastAPI)
+jinja2
+python-multipart
+
+# Utility
+requests

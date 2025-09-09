@@ -1,0 +1,58 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.venv
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+outputs/
+*.csv
+*.tsv
+
+# Model files (large files should not be pushed to git)
+models/
+*.onnx
+*.bin
+*.h5
+
+# Audio datasets (keep only scripts, not raw data)
+data/clean/
+data/noisy/
+
+# Streamlit / FastAPI cache
+.streamlit/
+.fastapi_cache/
+
+# Uvicorn / server artifacts
+*.pid
+*.sock
+
+# Jupyter checkpoints (if used)
+.ipynb_checkpoints/
+
+# Generated plots / figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
