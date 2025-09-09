@@ -1,0 +1,2 @@
+# To-Evaluate-Speech-Recognition-Robustness-in-Noisy-User-Environments-by-using-PYTHON
+This repository contains Speech Recognition Robustness in Noisy Environments, where we analyze audio features, evaluate ASR models (Vosk &amp; Whisper) under varying noise levels, and visualize results. It also includes a FastAPI + WebSocket + Chart.js based real-time transcription UI with live RMS and ZCR monitoring.
