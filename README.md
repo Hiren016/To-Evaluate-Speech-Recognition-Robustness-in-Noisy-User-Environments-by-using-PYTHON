@@ -156,6 +156,13 @@ python scripts/analyze_dataset.py
 - 🌈 **Spectrograms** - Time-frequency representation (dB scale)
 - 🔥 **MFCC heatmaps** - Cepstral coefficient visualization
 
+
+<img width="1500" height="600" alt="clip1__pink_0dB_mfcc_20250909_162436" src="https://github.com/user-attachments/assets/2c7e89a5-7e96-4e6d-81d2-c5f334b3b670" />
+<img width="1500" height="600" alt="clip1__pink_0dB_spec_20250909_162436" src="https://github.com/user-attachments/assets/2836141d-5d58-4f46-b64c-b94ebe217cf6" />
+<img width="1500" height="600" alt="clip1__pink_0dB_wave_20250909_162436" src="https://github.com/user-attachments/assets/a553e9dc-4125-49f4-97dd-573c0a8bee48" />
+
+
+
 ### 3️⃣ Speech Recognition Processing
 
 #### Batch Transcription
