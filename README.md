@@ -177,6 +177,8 @@ python scripts/transcribe_batch.py --engine whisper --model medium.en
 python scripts/realtime_transcribe.py --engine vosk
 python scripts/realtime_transcribe.py --engine whisper
 ```
+<img width="891" height="345" alt="transcription" src="https://github.com/user-attachments/assets/de076778-2fd8-4ae6-a38d-a9468d8c1712" />
+
 
 ### 4️⃣ Performance Evaluation
 
