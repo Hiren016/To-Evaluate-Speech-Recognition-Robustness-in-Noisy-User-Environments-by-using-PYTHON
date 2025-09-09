@@ -100,6 +100,7 @@ pip install -r requirements.txt
 # Download Vosk ASR model
 python tools/download_vosk_model.py
 ```
+<img width="682" height="188" alt="requirements" src="https://github.com/user-attachments/assets/5492ed4f-9974-47c5-8155-0cf16aacbc23" />
 
 ### Launch Web Interface
 
@@ -131,6 +132,8 @@ python tools/make_tts_dataset.py
 # - data/clean/     → Clean speech samples
 # - data/noisy/     → Noisy speech (various SNR: 20dB, 10dB, 5dB, 0dB, -5dB)
 ```
+
+<img width="681" height="127" alt="generating_audio" src="https://github.com/user-attachments/assets/4e952545-4ca9-44cc-a532-a34865b7cee7" />
 
 ### 2️⃣ Acoustic Feature Extraction
 
